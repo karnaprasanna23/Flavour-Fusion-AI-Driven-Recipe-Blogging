@@ -8,11 +8,11 @@ https://karnaprasanna23-a7khiqcgmtu6baxf5w3o39.streamlit.app/
 
 # Video Demo Link:
 
-[https://drive.google.com/file/d/1X660lf3XfLzYXuBHQpJzxfQnV_E7zmHI/view?usp=drive_link](https://karnaprasanna23-a7khiqcgmtu6baxf5w3o39.streamlit.app/)
+"C:\Users\karna\Downloads\Flavour Fusion Video Demo (1).mp4"
 
 # Document File Link :
 
-[https://drive.google.com/file/d/1G2l2CT0u-7m-O47P2QuFsc_pFJu7nbQH/view?usp=sharing](https://karnaprasanna23-a7khiqcgmtu6baxf5w3o39.streamlit.app/)
+"C:\Users\karna\Downloads\Flavour-Fusion-AI-Driven-Recipe-Blogging.pdf"
 
 Skills Required: Machine Learning
 
